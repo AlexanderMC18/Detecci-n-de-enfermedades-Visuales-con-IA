@@ -1,1 +1,1 @@
-# Detecci-n-de-enfermedades-Visuales-con-IA
+# Deteccion-de-enfermedades-Visuales-con-IA
